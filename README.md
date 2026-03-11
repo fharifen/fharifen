@@ -23,8 +23,9 @@
 <!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
 <h2 align="center">⚡ About Me</h2>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
+
 <td valign="top" width="55%">
 
 ```typescript
@@ -47,23 +48,26 @@ const fharifen = {
 ```
 
 </td>
-<td valign="top" width="45%">
 
-```
-╔══════════════════════════════════╗
-║  🌱  Currently                   ║
-║      → Deepening DevOps skills   ║
-║      → Exploring Applied AI      ║
-║                                  ║
-║  🎯  Goals 2025                  ║
-║      → Contribute to OSS         ║
-║      → Build impactful products  ║
-║      → Master cloud infra        ║
-║                                  ║
-║  💬  Ask me about                ║
-║      Web • APIs • DevOps • AI    ║
-╚══════════════════════════════════╝
-```
+<td width="45%" align="center">
+
+<div style="height:100%;">
+  <img 
+    height="100%"
+    width="100%"
+    style="object-fit:cover; border-radius:10px;"
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXNzNXhxdjJpZzVwaDcwd3dvbnhoZndveXBnd2RqZXlvOXcwdHB5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S929i36L85MYdAJy9K/giphy.gif"  />
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+
+###
 
 </td>
 </tr>
