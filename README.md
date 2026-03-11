@@ -3,7 +3,18 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,15:00ffcc,35:00ccff,50:6600ff,70:bf00ff,85:ff00aa,100:ff0055&height=220&text=HARIFENONTSOA&fontSize=72&fontColor=00ff41&animation=twinkling&fontAlignY=42&desc=%E2%96%B8%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20DIGITAL%20ARCHITECT%20%E2%80%A2%20CODE%20RUNNER%20%E2%96%B8&descAlignY=68&descAlign=50&descSize=14&fontAlign=50&stroke=00ffcc&strokeWidth=1" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=65&lines=%E2%9F%A8+HARIFENONTSOA+%E2%9F%A9" alt="Name" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%96%B8-SOFTWARE_DEVELOPER-00ff41?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/%E2%80%A2-DIGITAL_ARCHITECT-00ffcc?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/%E2%80%A2-CODE_RUNNER-bf00ff?style=flat-square&labelColor=0a0a0a" />
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░ ANIMATED TYPING ░░░░░░░░░░░░░░░░ -->
