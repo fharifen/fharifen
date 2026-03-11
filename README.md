@@ -8,32 +8,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=65&lines=%E2%9F%A8+HARIFENONTSOA+%E2%9F%A9" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=5CEAA2&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=65&lines=%E2%9F%A8+HARIFENONTSOA+%E2%9F%A9" alt="Name" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%96%B8-SOFTWARE_DEVELOPER-00ff41?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/%E2%96%B8-SOFTWARE_DEVELOPER-5ceaa2?style=flat-square&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/%E2%80%A2-DIGITAL_ARCHITECT-00ffcc?style=flat-square&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/%E2%80%A2-CODE_RUNNER-bf00ff?style=flat-square&labelColor=0a0a0a" />
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░ ANIMATED TYPING ░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+SYSTEM+ONLINE...+OPERATOR%3A+fharifen+%F0%9F%94%93;%3E_+ROLE%3A+Full-Stack+Engineer+%2F+DevOps+Architect+%F0%9F%9B%A1%EF%B8%8F;%3E_+NETWORK%3A+42+%7C+LOCATION%3A+Antananarivo+%F0%9F%8C%90;%3E_+STATUS%3A+Deploying+next-gen+systems...+%E2%9A%A1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/fharifen">
-    <img src="https://komarev.com/ghpvc/?username=fharifen&label=%E2%96%B8+SCANS&color=bf00ff&style=flat-square&labelColor=0a0a0a" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fharifen?tab=followers">
-    <img src="https://img.shields.io/github/followers/fharifen?label=%E2%96%B8+OPERATIVES&style=flat-square&color=00ffcc&labelColor=0a0a0a" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fharifen?tab=stars">
-    <img src="https://img.shields.io/github/stars/fharifen?label=%E2%96%B8+SIGNAL+BOOSTS&style=flat-square&color=ff00aa&labelColor=0a0a0a" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=3000&pause=800&color=5CEAA2&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+SYSTEM+ONLINE...+OPERATOR%3A+fharifen+%F0%9F%94%93;%3E_+ROLE%3A+Full-Stack+Engineer+%2F+DevOps+Architect+%F0%9F%9B%A1%EF%B8%8F;%3E_+NETWORK%3A+42+%7C+LOCATION%3A+Antananarivo+%F0%9F%8C%90;%3E_+STATUS%3A+Deploying+next-gen+systems...+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -47,7 +33,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/◈-SYSTEM_LOG-00ff41?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/◈-SYSTEM_LOG-5ceaa2?style=flat-square&labelColor=0a0a0a"/>
   &nbsp;
   <img src="https://img.shields.io/badge/OPERATOR_DOSSIER-CLASSIFIED-00ffcc?style=flat-square&labelColor=0a0a0a"/>
 </h2>
@@ -91,7 +77,7 @@ system:
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔋_UPTIME-99.9%25-00ff41?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/🔋_UPTIME-99.9%25-5ceaa2?style=flat-square&labelColor=0a0a0a"/>
   <img src="https://img.shields.io/badge/⚡_POWER-MAXIMUM-00ffcc?style=flat-square&labelColor=0a0a0a"/>
 </p>
 
@@ -174,13 +160,13 @@ system:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fharifen&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ffcc&text_color=a0a0b0" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fharifen&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0a0a0a&title_color=5ceaa2&icon_color=00ffcc&text_color=a0a0b0" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fharifen&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=00ff41&text_color=a0a0b0" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fharifen&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=5ceaa2&text_color=a0a0b0" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fharifen&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0A0A0A&ring=00FF41&fire=FF00AA&currStreakLabel=00FFCC&sideLabels=00FF41&currStreakNum=00FFCC&sideNums=FF00AA&dates=555577" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fharifen&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0A0A0A&ring=5CEAA2&fire=FF00AA&currStreakLabel=00FFCC&sideLabels=5CEAA2&currStreakNum=00FFCC&sideNums=FF00AA&dates=555577" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -252,7 +238,7 @@ system:
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/◈-TRANSMISSION_LOG-00ff41?style=flat-square&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/◈-TRANSMISSION_LOG-5ceaa2?style=flat-square&labelColor=0a0a0a"/>
 </h2>
 
 <p align="center">
@@ -262,9 +248,5 @@ system:
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&width=650&lines=%3E_+CONNECTION+SECURE+%E2%94%81%E2%94%81+ALL+SYSTEMS+NOMINAL+%E2%94%81%E2%94%81+THANKS+FOR+VISITING;%3E_+%E2%AD%90+STAR+THE+REPOS+%E2%94%82+FORK+THE+CODE+%E2%94%82+JOIN+THE+NETWORK;%3E_+%5Bfharifen%40nexus%5D%24+exit+%E2%96%B8%E2%96%B8%E2%96%B8" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00ff41,15:00ffcc,35:00ccff,50:6600ff,70:bf00ff,85:ff00aa,100:ff0055&height=100&section=footer&reversal=true" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1500&color=5CEAA2&center=true&vCenter=true&width=650&lines=%3E_+CONNECTION+SECURE+%E2%94%81%E2%94%81+ALL+SYSTEMS+NOMINAL+%E2%94%81%E2%94%81+THANKS+FOR+VISITING;%3E_+%E2%AD%90+STAR+THE+REPOS+%E2%94%82+FORK+THE+CODE+%E2%94%82+JOIN+THE+NETWORK;%3E_+%5Bfharifen%40nexus%5D%24+exit+%E2%96%B8%E2%96%B8%E2%96%B8" />
 </p>
