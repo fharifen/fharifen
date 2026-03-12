@@ -19,7 +19,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░ ANIMATED TYPING ░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=3000&pause=800&color=5CEAA2&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+SYSTEM+ONLINE...+OPERATOR%3A+fharifen+%F0%9F%94%93;%3E_+ROLE%3A+Full-Stack+Engineer+%2F+DevOps+Architect+%F0%9F%9B%A1%EF%B8%8F;%3E_+NETWORK%3A+42+%7C+LOCATION%3A+Antananarivo+%F0%9F%8C%90;%3E_+STATUS%3A+Deploying+next-gen+systems...+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=10&duration=3000&pause=800&color=5CEAA2&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+SYSTEM+ONLINE...+OPERATOR%3A+fharifen+%F0%9F%94%93;%3E_+ROLE%3A+Full-Stack+Engineer+%2F+DevOps+Architect+%F0%9F%9B%A1%EF%B8%8F;%3E_+NETWORK%3A+42+%7C+LOCATION%3A+Antananarivo+%F0%9F%8C%90;%3E_+STATUS%3A+Deploying+next-gen+systems...+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <br/>
